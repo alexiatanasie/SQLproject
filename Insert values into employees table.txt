@@ -1,0 +1,25 @@
+--insert values into employees table
+
+insert into employees values(13, 'Alexia Tanasie','alexia.t@astore.com','0789 919 766', 'Store_Director', 7199.00, 12000.00)
+insert into employees values(78, 'Arya Stewart','arya.s@astore.com','0789 876 578', 'Store Manager', 4020.60, 6700.98)
+insert into employees values(88, 'Amelia James','amelia.j@astore.com','0789 908 547', 'Store Manager', 4100.20, 6890.55)
+
+insert into employees values(44, 'Harry Ryan','harry.r@astore.com','0789 759 012', 'Marketing Coordinator', 3250.88, 4806.99)
+insert into employees values(63, 'Martina Mirek','martin.m@astore.com','0789 302 591', 'Fashion Buyer', 4390.40, 7500.89)
+
+insert into employees values(22, 'Anna Williams','anna.w@astore.com','0789 563 148', 'Tailor', 2090.80, 3895.90)
+insert into employees values(32, 'Kyle Daniels','kyle.d@astore.com','0789 223 444', 'Tailor', 2090.80, 3895.90)
+
+insert into employees values(35, 'Andrew Harper','andrew.h@astore.com','0789 224 736', 'Cashier', 1765.70, 2560.70)
+insert into employees values(6, 'Marta Robinson','marta.r@astore.com','0789 665 440', 'Cashier', 1765.70, 2560.70)
+insert into employees values(100, 'Paul Simmons','paul.s@astore.com','0789 321 123', 'Cashier', 1765.70, 2560.70)
+insert into employees values(60, 'Megan Richard','megan.r@astore.com','0789 5778 45', 'Cashier', 1765.70, 2560.70)
+insert into employees values(92, 'Sonny Widow','sonny.w@astore.com','0789 122 055', 'Cashier', 1765.70, 2560.70)
+insert into employees values(37, 'Lucas Maren','lucas.m@astore.com','0789 656 877', 'Cashier', 1765.70, 2560.70)
+insert into employees values(86, 'Zoey Cameron','zoey.c@astore.com','0789 302 656', 'Cashier', 1765.70, 2560.70)
+insert into employees values(75, 'Matt Chase','matt.c@astore.com','0789 565 782', 'Cashier', 1765.70, 2560.70)
+insert into employees values(54, 'John Lee','john.l@astore.com','0789 998 774', 'Customer Service Representative', 2140.00, 3715.60)
+insert into employees values(17, 'Emma Carter','emma.c@astore.com','0789 297 538', 'Stylist', 2080.75, 4000.90)
+insert into employees values(7, 'Jacob Thomas','jacob.t@astore.com','0789 556 180', 'Stylist', 2080.75, 4000.90)
+
+select * from employees
