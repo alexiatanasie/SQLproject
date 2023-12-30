@@ -1,0 +1,18 @@
+--insert values into customers table
+insert into customers values(27, 'Amanda John','Sibiu','0720 509 663', 'amanda.22@gmail.com')
+insert into customers values(77, 'Ana Brown','Rm Valcea','0727 578 683', 'anaaa@yahoo.com')
+insert into customers values(5, 'Laura Elliot','Cluj-Napoca','0778 225 455', 'laura.e@email.com')
+insert into customers values(98, 'Luis Harry','Sibiu','0765 888 914', 'luis99@gmail.com')
+insert into customers values(23, 'Max Vincent','Rm Valcea','0731 221 748', 'maxvcn@yahoo.com')
+insert into customers values(31, 'Noah Frank','Bucharest','0732 115 802', 'nfrank@email.com')
+insert into customers values(6, 'Emilia Matson','Cluj-Napoca','0766 978 019', 'emmat@yahoo.com')
+insert into customers values(17, 'Christina Scott','Bucharest','0765 102 305', 'chriscott@gmail.com')
+insert into customers values(60, 'Diana Oscar','Rm Valcea','0766 820 455', 'osdia@email.com')
+insert into customers values(13, 'Samuel Ian','Rm Valcea','0775 265 899','samuian@yahoo.com')
+insert into customers values(55, 'Oliver Callum','Sibiu','0770 233 145', 'calloliv@gmail.com')
+insert into customers values(8, 'Nick James','Bucharest','0771 344 548', 'njms@email.com')
+insert into customers values(39, 'Nina Jacobs','Cluj-Napoca','0732 128 756', 'nj99@yahoo.com')
+insert into customers values(3, 'Carlos Mattias','Bucharest','0721 332 490', 'carloss@gmail.com')
+insert into customers values(12, 'Emma Mike','Rm Valcea','0734 559 235', 'mikemma@email.com')
+
+select * from customers
