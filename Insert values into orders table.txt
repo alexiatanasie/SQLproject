@@ -1,0 +1,18 @@
+--insert values into orders table
+insert into orders values(14,77,86,TO_DATE('11-10-2023', 'DD-MM-YYYY'),2)
+insert into orders values(62,27,6,TO_DATE('21-09-2023', 'DD-MM-YYYY'),2)
+insert into orders values(33,5,92,TO_DATE('09-10-2023', 'DD-MM-YYYY'),2)
+insert into orders values(47,31,100,TO_DATE('05-05-2023', 'DD-MM-YYYY'),2)
+insert into orders values(95,17,100,TO_DATE('07-10-2023', 'DD-MM-YYYY'),1)
+insert into orders values(68,39,60,TO_DATE('13-12-2023', 'DD-MM-YYYY'),1)
+insert into orders values(71,3,100,TO_DATE('11-06-2023', 'DD-MM-YYYY'),1)
+insert into orders values(84,6,92,TO_DATE('13-12-2023', 'DD-MM-YYYY'),1)
+insert into orders values(19,12,37,TO_DATE('14-07-2023', 'DD-MM-YYYY'),1)
+insert into orders values(10,98,35,TO_DATE('11-06-2023', 'DD-MM-YYYY'),3)
+insert into orders values(34,55,6,TO_DATE('03-12-2023', 'DD-MM-YYYY'),2)
+insert into orders values(21,23,75,TO_DATE('13-10-2023', 'DD-MM-YYYY'),1)
+insert into orders values(97,60,86,TO_DATE('17-07-2023', 'DD-MM-YYYY'),1)
+insert into orders values(80,13,86,TO_DATE('22-03-2023', 'DD-MM-YYYY'),1)
+insert into orders values(24,8,86,TO_DATE('13-12-2023', 'DD-MM-YYYY'),1)
+
+select * from orders
