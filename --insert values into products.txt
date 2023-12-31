@@ -1,0 +1,13 @@
+--insert values into products
+insert into products values(2344,'Skirt',129.99)
+insert into products values(53928,'Pullovers', 350.00)
+insert into products values(1312,'Jacket', 230.00)
+insert into products values(39976, 'Outerwear', 609.25)
+insert into products values(5859,'Dress',900.66)
+insert into products values(3627, 'Blouse',88.99)
+insert into products values(7462,'Suit',456.70)
+insert into products values(29002,'Shirt', 70.50)
+insert into products values(6292,'Jeans', 170.20)
+insert into products values(4498,'Pants',345.64)
+
+select * from products
