@@ -1,0 +1,11 @@
+ --insert values into stores
+insert into stores values(1,'Calea lui Traian, No29', 213421, 'Rm Valcea', '0789 201 200', 'astore.vl@astore.com')
+insert into stores values(7,'Str Mihai Eminescu, No12', 218766, 'Rm Valcea', '0789 201 100', 'astore.vl@astore.com')
+insert into stores values(2,'str.Turnului, No14', 239088, 'Sibiu', '0789 201 201', 'astore.sb@astore.com')
+insert into stores values(5,'str.Morilor, No66', 234511, 'Sibiu', '0789 201 101', 'astore.sb@astore.com')
+insert into stores values(3,'Bd.Eroilor, No90', 245123, 'Cluj-Napoca', '0789 201 202', 'astore.cj@astore.com')
+insert into stores values(8,'Str.Oltului, No35', 240007, 'Cluj-Napoca', '0789 201 102', 'astore.cj@astore.com')
+insert into stores values(4,'Bd.Unirii, No45', 253906, 'Bucharest', '0789 201 203', 'astore.b@astore.com')
+insert into stores values(6,'Str.Paris, No56', 252745, 'Bucharest', '0789 201 103', 'astore.b@astore.com')
+
+select * from stores
