@@ -1,0 +1,11 @@
+--insert values into locations
+insert into locations values(10,1,'purple',2344,'M',15)
+insert into locations values(11,7,'black',1312,'M',11)
+insert into locations values(12,2,'black',1312,'S',5)
+insert into locations values(13,2,'yellow',39976,'L',34)
+insert into locations values(14,3,'black',1312,'XL',28)
+insert into locations values(15,8,'brown',29002,'L',29)
+insert into locations values(16,4,'brown',4498,'S',10)
+insert into locations values(17,4,'blue',6292,'M',73)
+
+select * from locations
